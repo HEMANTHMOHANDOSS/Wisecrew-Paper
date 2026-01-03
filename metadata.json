@@ -1,0 +1,7 @@
+{
+  "name": "Wisecrew - Research Portal",
+  "description": "A premium, high-performance registration and submission portal for academic events with smooth animations and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
